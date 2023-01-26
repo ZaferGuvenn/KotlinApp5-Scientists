@@ -1,0 +1,34 @@
+[
+  {
+    "scientists_name":"Nikola Tesla"
+    "scientists_birth_death":"1856-1943"
+    "scientists_image":"url"
+  },
+  {
+    "scientists_name":"Albert Einstein"
+    "scientists_birth_death":"1879-1955"
+    "scientists_image":"url"
+  },
+  {
+    "scientists_name":"Nikola Tesla"
+    "scientists_birth_death":"1867-1934"
+    "scientists_image":"url"
+  },
+  {
+    "scientists_name":"Marie Curie"
+    "scientists_birth_death":"1856-1943"
+    "scientists_image":"url"
+  },
+  {
+    "scientists_name":"Ada Lovelace"
+    "scientists_birth_death":"1815-1852"
+    "scientists_image":"url"
+  },
+  {
+    "scientists_name":"Alan Turing"
+    "scientists_birth_death":"1912-1954"
+    "scientists_image":"url"
+  }
+
+
+]
