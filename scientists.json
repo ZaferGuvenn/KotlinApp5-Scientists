@@ -2,27 +2,27 @@
   {
     "scientists_name":"Nikola Tesla"
     "scientists_birth_death":"1856-1943"
-    "scientists_image":"url"
+    "scientists_image":"https://raw.githubusercontent.com/ZaferGuvenn/KotlinApp5-Scientists/main/nikola_tesla.jpg?token=GHSAT0AAAAAAB35CLUFYRRZX76FYPJYDGPWY6S3BVA"
   },
   {
     "scientists_name":"Albert Einstein"
     "scientists_birth_death":"1879-1955"
-    "scientists_image":"url"
+    "scientists_image":"https://raw.githubusercontent.com/ZaferGuvenn/KotlinApp5-Scientists/main/albert_einstein.png?token=GHSAT0AAAAAAB35CLUEJ7TCEHGFCWZOGJDAY6S3BCQ"
   },
   {
     "scientists_name":"Marie Curie"
     "scientists_birth_death":"1867-1934"
-    "scientists_image":"url"
+    "scientists_image":"https://raw.githubusercontent.com/ZaferGuvenn/KotlinApp5-Scientists/main/marie_curie.jpg?token=GHSAT0AAAAAAB35CLUFSRGBOKMNYCGGXAQ6Y6S3BMA"
   },
   {
     "scientists_name":"Ada Lovelace"
     "scientists_birth_death":"1815-1852"
-    "scientists_image":"url"
+    "scientists_image":"https://raw.githubusercontent.com/ZaferGuvenn/KotlinApp5-Scientists/main/ada_lovelace.jpg?token=GHSAT0AAAAAAB35CLUEHQ52T6ULNFXOCKEMY6S3ADA"
   },
   {
     "scientists_name":"Alan Turing"
     "scientists_birth_death":"1912-1954"
-    "scientists_image":"url"
+    "scientists_image":"https://raw.githubusercontent.com/ZaferGuvenn/KotlinApp5-Scientists/main/alan_turing.jpg?token=GHSAT0AAAAAAB35CLUFOFDOLBZQRAK2IWFOY6S3AWQ"
   }
 
 
