@@ -2,14 +2,14 @@
   {
     "inventions_name":"Genel Görelilik Kuramı",
     "inventions_date":"1916",
-    "inventions_image":"",
+    "inventions_image":"https://raw.githubusercontent.com/ZaferGuvenn/KotlinApp5-Scientists/main/inventions/inventions-Albert-Einstein/Genel_Gorelilik_Kurami.jpg",
     "inventions_description":"Genel göreliliğe göre, kütleçekim alanındaki bir cisim ile kapalı bir kutu içinde ivmelenen bir cisim benzer şekilde davranır. Örneğin, roketin içindeki gözlemci (solda) ve Dünya'daki gözlemci (sağda) topun düşüşünü aynı algılar. Bunun sebebi roketin ivmelenmesinin aynı göreli kuvveti yaratmasıdır."
   },
   
   {
     "inventions_name":"Fotoelektrik Etki Kanunu",
     "inventions_date":"1921",
-    "inventions_image":"",
+    "inventions_image":"https://raw.githubusercontent.com/ZaferGuvenn/KotlinApp5-Scientists/main/inventions/inventions-Albert-Einstein/Fotoelektrik-Etki-Kanunu.jpg",
     "inventions_description":"Fotoelektrik etki ya da fotoemisyon, ışık bir maddeyi aydınlattığında elektronların ya da diğer serbest taşıyıcıların ortaya çıkmasıdır. Bu bağlamda ortaya çıkan elektronlar, fotoelektronlar olarak adlandırılır. Bu olay genellikle elektronik fiziğinde hatta kuantum kimyası ya da elektrokimya gibi alanlarda çalışılır."
   }
   
