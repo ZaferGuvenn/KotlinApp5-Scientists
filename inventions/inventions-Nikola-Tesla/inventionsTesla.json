@@ -12,40 +12,59 @@
     "inventions_image":"https://raw.githubusercontent.com/ZaferGuvenn/KotlinApp5-Scientists/main/inventions/inventions-Nikola-Tesla/tesla_vanasi.jpg",
     "inventions_description":"Tesla vanası veya Tesla valfı sıvıların kısmen veya tamamen sadece tek yönde akışına izin veren, herhangi hareketli parçadan oluşmayan statik bir vanadır. Bu statik özelliği sayesinde diğer tüm vanalardan ayrılır. Nikola Tesla tarafından 1916 yılında icat edilmiştir."
   },
-  
   {
-    "inventions_name":"Tesla Vanası",
-    "inventions_date":"1916",
-    "inventions_image":"https://raw.githubusercontent.com/ZaferGuvenn/KotlinApp5-Scientists/main/inventions/tesla_vanasi.jpg",
-    "inventions_description":"Tesla vanası veya Tesla valfı sıvıların kısmen veya tamamen sadece tek yönde akışına izin veren, herhangi hareketli parçadan oluşmayan statik bir vanadır. Bu statik özelliği sayesinde diğer tüm vanalardan ayrılır. Nikola Tesla tarafından 1916 yılında icat edilmiştir."
+    "inventions_name":"Tesla Bobini",
+    "inventions_date":"1891",
+    "inventions_image":"https://raw.githubusercontent.com/ZaferGuvenn/KotlinApp5-Scientists/main/inventions/inventions-Nikola-Tesla/tesla_bobini.jpg",
+    "inventions_description":"Tesla bobini, 1891 yılı civarında Nikola Tesla tarafından bulunan[1] ve yüksek voltaj, düşük akım ve yüksek frekansta alternatif akım üretmek amacıyla kullanılan deşarj bobinleridir. Tesla bobininde kabloyu bir hortum, elektiriği bu hortumun içinde akan su, elektrik akımını suyun akışı ve voltajı da suyun basıncı olarak düşünebiliriz. Hortumun ucuna bir ağızlık eklendiğinde ters orantılı bir şekilde suyun akış hızı azalırken basıncı da artar. Tesla bobininin çalışması da bu şekilde gerçekleşir. Tesla, bobini oluştururken birkaç konfigrasyon denemiştir ve bu alet genellikle bir araya gelen iki ya da üç çift rezonans elektrik devresinden oluşmaktadır. Tesla bu bobinleri elektrikle aydınlanma, fosforesans, röntgen ışınları üretimi, yüksek frekanslı alternatif akım, elektroterapi ve kablosuz elektrik üretimi gibi alanlarda yenilik getirecek deneyleri için kullanmıştır. Tesla bobinleri 1920'lere dek kablosuz telgraf için spark-gap radyo vericilerinde kullanıldı."
   },
   
   {
     "inventions_name":"Tesla Vanası",
     "inventions_date":"1916",
-    "inventions_image":"https://raw.githubusercontent.com/ZaferGuvenn/KotlinApp5-Scientists/main/inventions/tesla_vanasi.jpg",
+    "inventions_image":"https://raw.githubusercontent.com/ZaferGuvenn/KotlinApp5-Scientists/main/inventions/inventions-Nikola-Tesla/tesla_vanasi.jpg",
     "inventions_description":"Tesla vanası veya Tesla valfı sıvıların kısmen veya tamamen sadece tek yönde akışına izin veren, herhangi hareketli parçadan oluşmayan statik bir vanadır. Bu statik özelliği sayesinde diğer tüm vanalardan ayrılır. Nikola Tesla tarafından 1916 yılında icat edilmiştir."
+  },
+  {
+    "inventions_name":"Tesla Bobini",
+    "inventions_date":"1891",
+    "inventions_image":"https://raw.githubusercontent.com/ZaferGuvenn/KotlinApp5-Scientists/main/inventions/inventions-Nikola-Tesla/tesla_bobini.jpg",
+    "inventions_description":"Tesla bobini, 1891 yılı civarında Nikola Tesla tarafından bulunan[1] ve yüksek voltaj, düşük akım ve yüksek frekansta alternatif akım üretmek amacıyla kullanılan deşarj bobinleridir. Tesla bobininde kabloyu bir hortum, elektiriği bu hortumun içinde akan su, elektrik akımını suyun akışı ve voltajı da suyun basıncı olarak düşünebiliriz. Hortumun ucuna bir ağızlık eklendiğinde ters orantılı bir şekilde suyun akış hızı azalırken basıncı da artar. Tesla bobininin çalışması da bu şekilde gerçekleşir. Tesla, bobini oluştururken birkaç konfigrasyon denemiştir ve bu alet genellikle bir araya gelen iki ya da üç çift rezonans elektrik devresinden oluşmaktadır. Tesla bu bobinleri elektrikle aydınlanma, fosforesans, röntgen ışınları üretimi, yüksek frekanslı alternatif akım, elektroterapi ve kablosuz elektrik üretimi gibi alanlarda yenilik getirecek deneyleri için kullanmıştır. Tesla bobinleri 1920'lere dek kablosuz telgraf için spark-gap radyo vericilerinde kullanıldı."
   },
   
   {
     "inventions_name":"Tesla Vanası",
     "inventions_date":"1916",
-    "inventions_image":"https://raw.githubusercontent.com/ZaferGuvenn/KotlinApp5-Scientists/main/inventions/tesla_vanasi.jpg",
+    "inventions_image":"https://raw.githubusercontent.com/ZaferGuvenn/KotlinApp5-Scientists/main/inventions/inventions-Nikola-Tesla/tesla_vanasi.jpg",
     "inventions_description":"Tesla vanası veya Tesla valfı sıvıların kısmen veya tamamen sadece tek yönde akışına izin veren, herhangi hareketli parçadan oluşmayan statik bir vanadır. Bu statik özelliği sayesinde diğer tüm vanalardan ayrılır. Nikola Tesla tarafından 1916 yılında icat edilmiştir."
+  },
+  {
+    "inventions_name":"Tesla Bobini",
+    "inventions_date":"1891",
+    "inventions_image":"https://raw.githubusercontent.com/ZaferGuvenn/KotlinApp5-Scientists/main/inventions/inventions-Nikola-Tesla/tesla_bobini.jpg",
+    "inventions_description":"Tesla bobini, 1891 yılı civarında Nikola Tesla tarafından bulunan[1] ve yüksek voltaj, düşük akım ve yüksek frekansta alternatif akım üretmek amacıyla kullanılan deşarj bobinleridir. Tesla bobininde kabloyu bir hortum, elektiriği bu hortumun içinde akan su, elektrik akımını suyun akışı ve voltajı da suyun basıncı olarak düşünebiliriz. Hortumun ucuna bir ağızlık eklendiğinde ters orantılı bir şekilde suyun akış hızı azalırken basıncı da artar. Tesla bobininin çalışması da bu şekilde gerçekleşir. Tesla, bobini oluştururken birkaç konfigrasyon denemiştir ve bu alet genellikle bir araya gelen iki ya da üç çift rezonans elektrik devresinden oluşmaktadır. Tesla bu bobinleri elektrikle aydınlanma, fosforesans, röntgen ışınları üretimi, yüksek frekanslı alternatif akım, elektroterapi ve kablosuz elektrik üretimi gibi alanlarda yenilik getirecek deneyleri için kullanmıştır. Tesla bobinleri 1920'lere dek kablosuz telgraf için spark-gap radyo vericilerinde kullanıldı."
   },
   
   {
     "inventions_name":"Tesla Vanası",
     "inventions_date":"1916",
-    "inventions_image":"https://raw.githubusercontent.com/ZaferGuvenn/KotlinApp5-Scientists/main/inventions/tesla_vanasi.jpg",
+    "inventions_image":"https://raw.githubusercontent.com/ZaferGuvenn/KotlinApp5-Scientists/main/inventions/inventions-Nikola-Tesla/tesla_vanasi.jpg",
     "inventions_description":"Tesla vanası veya Tesla valfı sıvıların kısmen veya tamamen sadece tek yönde akışına izin veren, herhangi hareketli parçadan oluşmayan statik bir vanadır. Bu statik özelliği sayesinde diğer tüm vanalardan ayrılır. Nikola Tesla tarafından 1916 yılında icat edilmiştir."
+  },
+  {
+    "inventions_name":"Tesla Bobini",
+    "inventions_date":"1891",
+    "inventions_image":"https://raw.githubusercontent.com/ZaferGuvenn/KotlinApp5-Scientists/main/inventions/inventions-Nikola-Tesla/tesla_bobini.jpg",
+    "inventions_description":"Tesla bobini, 1891 yılı civarında Nikola Tesla tarafından bulunan[1] ve yüksek voltaj, düşük akım ve yüksek frekansta alternatif akım üretmek amacıyla kullanılan deşarj bobinleridir. Tesla bobininde kabloyu bir hortum, elektiriği bu hortumun içinde akan su, elektrik akımını suyun akışı ve voltajı da suyun basıncı olarak düşünebiliriz. Hortumun ucuna bir ağızlık eklendiğinde ters orantılı bir şekilde suyun akış hızı azalırken basıncı da artar. Tesla bobininin çalışması da bu şekilde gerçekleşir. Tesla, bobini oluştururken birkaç konfigrasyon denemiştir ve bu alet genellikle bir araya gelen iki ya da üç çift rezonans elektrik devresinden oluşmaktadır. Tesla bu bobinleri elektrikle aydınlanma, fosforesans, röntgen ışınları üretimi, yüksek frekanslı alternatif akım, elektroterapi ve kablosuz elektrik üretimi gibi alanlarda yenilik getirecek deneyleri için kullanmıştır. Tesla bobinleri 1920'lere dek kablosuz telgraf için spark-gap radyo vericilerinde kullanıldı."
   },
   
   {
     "inventions_name":"Tesla Vanası",
     "inventions_date":"1916",
-    "inventions_image":"https://raw.githubusercontent.com/ZaferGuvenn/KotlinApp5-Scientists/main/inventions/tesla_vanasi.jpg",
+    "inventions_image":"https://raw.githubusercontent.com/ZaferGuvenn/KotlinApp5-Scientists/main/inventions/inventions-Nikola-Tesla/tesla_vanasi.jpg",
     "inventions_description":"Tesla vanası veya Tesla valfı sıvıların kısmen veya tamamen sadece tek yönde akışına izin veren, herhangi hareketli parçadan oluşmayan statik bir vanadır. Bu statik özelliği sayesinde diğer tüm vanalardan ayrılır. Nikola Tesla tarafından 1916 yılında icat edilmiştir."
   }
+  
+  
 
 ]
