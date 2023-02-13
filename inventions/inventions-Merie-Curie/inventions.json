@@ -1,7 +1,7 @@
 [
   {
     
-    "inventions_scientists":"Merie-Curie",
+    "inventions_scientists":"Marie-Curie",
     "inventions_name":"Polonyum",
     "inventions_date":"1898",
     "inventions_image":"https://raw.githubusercontent.com/ZaferGuvenn/KotlinApp5-Scientists/main/inventions/inventions-Merie-Curie/polonium.jpg",
@@ -10,7 +10,7 @@
   },
   {
     
-    "inventions_scientists":"Merie-Curie",
+    "inventions_scientists":"Marie-Curie",
     "inventions_name":"Radyum",
     "inventions_date":"1898",
     "inventions_image":"https://raw.githubusercontent.com/ZaferGuvenn/KotlinApp5-Scientists/main/inventions/inventions-Merie-Curie/radium.jpg",
