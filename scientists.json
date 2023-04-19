@@ -1,31 +1,31 @@
 [
   {
     "scientists_name":"Nikola Tesla",
-    "scientists_life":"nikolatesla",
+    "scientists_life":"Nikola Tesla, Sırp–Amerikalı mucit, elektrik mühendisi, makine mühendisi ve fütüristti. Günümüzde en çok alternatif akım elektrik kaynağı sistemine ve mühendisliğe verdiği katkılarla tanınmaktadır.",
     "scientists_birth_death":"1856-1943",
     "scientists_image":"https://raw.githubusercontent.com/ZaferGuvenn/KotlinApp5-Scientists/main/nikola_tesla.jpg?token=GHSAT0AAAAAAB35CLUFYRRZX76FYPJYDGPWY6S3BVA"
   },
   {
     "scientists_name":"Albert Einstein",
-    "scientists_life":"albert",
+    "scientists_life":"Albert Einstein, Almanya doğumlu teorik fizikçi ve bilim insanı. Tüm zamanların en iyi fizikçilerinden birisi olarak kabul edilen Albert Einstein, en çok görelilik teorisini geliştirmesiyle tanınır. Aynı zamanda kuantum mekaniğinin gelişimine önemli ölçüde katkılarda bulunmuştur.",
     "scientists_birth_death":"1879-1955",
     "scientists_image":"https://raw.githubusercontent.com/ZaferGuvenn/KotlinApp5-Scientists/main/albert_einstein.png?token=GHSAT0AAAAAAB35CLUEJ7TCEHGFCWZOGJDAY6S3BCQ"
   },
   {
     "scientists_name":"Marie Curie",
-    "scientists_life":"marie",
+    "scientists_life":"Marie Skłodowska Curie, radyoaktivite alanında öncü araştırmalar yapmış ve bu araştırmaları sonucu Nobel Ödülü'ne layık görülmüş Polonyalı-Fransız fizikçi ve kimyagerdir. Uranyumla yaptığı deneyler sonucu radyoaktiviteyi keşfetti. Toryumun radyoaktif özelliğini buldu ve radyum elementini ayrıştırdı.",
     "scientists_birth_death":"1867-1934",
     "scientists_image":"https://raw.githubusercontent.com/ZaferGuvenn/KotlinApp5-Scientists/main/marie_curie.jpg?token=GHSAT0AAAAAAB35CLUFSRGBOKMNYCGGXAQ6Y6S3BMA"
   },
   {
     "scientists_name":"Ada Lovelace",
-    "scientists_life":"ada",
+    "scientists_life":"Augusta Ada King, Lovelace Kontesi (10 Aralık 1815 - 27 Kasım 1852), Augusta Ada Byron adıyla doğan ve günümüzde yaygın olarak Ada Lovelace adıyla bilinen, İngiliz matematikçi ve yazardır. Esas olarak Charles Babbage'in erken dönem mekanik genel amaçlı bilgisayarı Analitik Makine üzerindeki çalışmaları ile bilinir.",
     "scientists_birth_death":"1815-1852",
     "scientists_image":"https://raw.githubusercontent.com/ZaferGuvenn/KotlinApp5-Scientists/main/ada_lovelace.jpg?token=GHSAT0AAAAAAB35CLUEHQ52T6ULNFXOCKEMY6S3ADA"
   },
   {
     "scientists_name":"Alan Turing",
-    "scientists_life":"alan",
+    "scientists_life":"Alan Mathison Turing, İngiliz matematikçi, bilgisayar bilimcisi ve kriptolog. Bilgisayar biliminin kurucusu sayılır. Geliştirmiş olduğu Turing testi ile makinelerin ve bilgisayarların düşünme yetisine sahip olup olamayacakları konusunda bir kriter öne sürmüştür.",
     "scientists_birth_death":"1912-1954",
     "scientists_image":"https://raw.githubusercontent.com/ZaferGuvenn/KotlinApp5-Scientists/main/alan_turing.jpg?token=GHSAT0AAAAAAB35CLUFOFDOLBZQRAK2IWFOY6S3AWQ"
   }
